@@ -1,4 +1,6 @@
 #include <stdio.h>
 int main()
 {int a,b;
-	printf("division is:%d",a%b)}
+	a=5;
+        b=2;
+	printf("division1 is:%d",a%b);}
