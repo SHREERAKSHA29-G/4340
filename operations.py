@@ -1,6 +1,5 @@
 a=5
 b=2
-sum=a+b
+subtraction=a-b
 
-print("the sum of {a} and {b} is ",sum)
-
+print("the subtraction of {a} and {b} is ",subtraction)
