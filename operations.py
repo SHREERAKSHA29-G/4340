@@ -1,5 +1,5 @@
 a=5
 b=2
-subtraction=a-b
+multiplication=a*b
 
-print("the subtraction of {a} and {b} is ",subtraction)
+print("the multiplication of {a} and {b} is ",multiplication)
