@@ -1,5 +1,5 @@
 a=5
 b=2
-multiplication=a*b
+division=a%b
 
-print("the multiplication of {a} and {b} is ",multiplication)
+print("the division of {a} and {b} is ",division)
